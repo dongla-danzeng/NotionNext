@@ -1,7 +1,7 @@
 const CONFIG_NEXT = {
 
   HOME_BANNER: false, // 首页是否显示大图及标语 [true,false]
-  HOME_BANNER_Strings: ['Hi，我是一个程序员', 'Hi，我是一个打工人', 'Hi，我是一个干饭人', '欢迎来到我的博客🎉'], // 首页大图标语文字
+  HOME_BANNER_Strings: ['无论如何都不能丢掉良心与理想🎉', '自己闯荡得来的就比较有成就感🎉', '愿所有的努力都能配得上当当当初的野心🎉', '欢迎来到我的博客🎉'], // 首页大图标语文字
 
   NAV_TYPE: 'normal', // ['fixed','autoCollapse','normal'] 分别是固定屏幕顶部并始终显示、固定屏幕顶部且滚动时隐藏，不固定屏幕顶部
 
